@@ -107,8 +107,6 @@ Full-stack micro-task marketplace connecting buyers and workers globally.
 
 ## Experience
 
-**SWE Trainee** · Mentored by a Staff Engineer · *2025 – Present*
-
 **Bootcamp Coordinator & Trainer** · IIUC Competitive Programming Society · *Jan 2025 – Jan 2026*
 > Organized bootcamps and contests · Received **Best Mentor Award**
 
